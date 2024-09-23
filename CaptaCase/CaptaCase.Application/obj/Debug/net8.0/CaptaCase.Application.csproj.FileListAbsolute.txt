@@ -1,0 +1,17 @@
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\bin\Debug\net8.0\CaptaCase.Application.deps.json
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\bin\Debug\net8.0\CaptaCase.Application.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\bin\Debug\net8.0\CaptaCase.Application.pdb
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\bin\Debug\net8.0\CaptaCase.Core.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\bin\Debug\net8.0\CaptaCase.Domain.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\bin\Debug\net8.0\CaptaCase.Core.pdb
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\bin\Debug\net8.0\CaptaCase.Domain.pdb
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCase.Application.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCase.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCase.Application.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCase.Application.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCase.Application.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCas.641DB98D.Up2Date
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCase.Application.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\refint\CaptaCase.Application.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\CaptaCase.Application.pdb
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Application\obj\Debug\net8.0\ref\CaptaCase.Application.dll

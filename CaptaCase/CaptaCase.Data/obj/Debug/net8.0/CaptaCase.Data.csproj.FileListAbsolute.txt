@@ -1,0 +1,15 @@
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\bin\Debug\net8.0\CaptaCase.Data.deps.json
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\bin\Debug\net8.0\CaptaCase.Data.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\bin\Debug\net8.0\CaptaCase.Data.pdb
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\bin\Debug\net8.0\CaptaCase.Domain.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\bin\Debug\net8.0\CaptaCase.Domain.pdb
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCase.Data.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCase.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCase.Data.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCase.Data.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCase.Data.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCas.2F223624.Up2Date
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCase.Data.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\refint\CaptaCase.Data.dll
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\CaptaCase.Data.pdb
+C:\Users\joaoc\source\repos\CaptaCase\CaptaCase\CaptaCase.Data\obj\Debug\net8.0\ref\CaptaCase.Data.dll

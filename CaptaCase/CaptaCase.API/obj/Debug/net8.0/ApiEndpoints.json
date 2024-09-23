@@ -1,0 +1,374 @@
+[
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerController",
+    "Method": "Get",
+    "RelativePath": "api/customer/Customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CPF",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result\u00601[[CaptaCase.Core.Schema.CustomerSchema.Response.CustomerResponse, CaptaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerController",
+    "Method": "Post",
+    "RelativePath": "api/customer/Customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaptaCase.Core.Schema.CustomerSchema.Request.SaveCustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerController",
+    "Method": "Delete",
+    "RelativePath": "api/customer/Customer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CPF",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerController",
+    "Method": "Get",
+    "RelativePath": "api/customer/Customer/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.PaginatedResult\u00601[[CaptaCase.Core.Schema.CustomerSchema.Response.CustomerResponse, CaptaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerController",
+    "Method": "Update",
+    "RelativePath": "api/customer/Customer/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaptaCase.Core.Schema.CustomerSchema.Request.UpdateCustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerSituationController",
+    "Method": "Get",
+    "RelativePath": "api/customersituation/CustomerSituation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SituationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result\u00601[[CaptaCase.Core.Schema.CustomerSituationSchema.Response.CustomerSituationResponse, CaptaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerSituationController",
+    "Method": "Post",
+    "RelativePath": "api/customersituation/CustomerSituation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaptaCase.Core.Schema.CustomerSituationSchema.Request.SaveCustomerSituationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerSituationController",
+    "Method": "Delete",
+    "RelativePath": "api/customersituation/CustomerSituation",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SituationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerSituationController",
+    "Method": "Get",
+    "RelativePath": "api/customersituation/CustomerSituation/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.PaginatedResult\u00601[[CaptaCase.Core.Schema.CustomerSituationSchema.Response.CustomerSituationResponse, CaptaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerSituationController",
+    "Method": "Update",
+    "RelativePath": "api/customersituation/CustomerSituation/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaptaCase.Core.Schema.CustomerSituationSchema.Request.UpdateCustomerSituationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerTypeController",
+    "Method": "Get",
+    "RelativePath": "api/customertype/CustomerType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TypeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result\u00601[[CaptaCase.Core.Schema.CustomerTypeSchema.Response.CustomerTypeResponse, CaptaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerTypeController",
+    "Method": "Post",
+    "RelativePath": "api/customertype/CustomerType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaptaCase.Core.Schema.CustomerTypeSchema.Request.SaveCustomerTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerTypeController",
+    "Method": "Delete",
+    "RelativePath": "api/customertype/CustomerType",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TypeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerTypeController",
+    "Method": "Get",
+    "RelativePath": "api/customertype/CustomerType/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.PaginatedResult\u00601[[CaptaCase.Core.Schema.CustomerTypeSchema.Response.CustomerTypeResponse, CaptaCase.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CaptaCase.API.Controllers.CustomerTypeController",
+    "Method": "Update",
+    "RelativePath": "api/customertype/CustomerType/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaptaCase.Core.Schema.CustomerTypeSchema.Request.UpdateCustomerTypeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CaptaCase.Core.Schema.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

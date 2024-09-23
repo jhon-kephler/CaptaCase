@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\CaptaCase.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\CaptaCase.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\CaptaCase.Application.csproj",
+        "projectName": "CaptaCase.Application",
+        "projectPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\CaptaCase.Application.csproj",
+        "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Core\\CaptaCase.Core.csproj": {
+                "projectPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Core\\CaptaCase.Core.csproj"
+              },
+              "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\CaptaCase.Domain.csproj": {
+                "projectPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\CaptaCase.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Core\\CaptaCase.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Core\\CaptaCase.Core.csproj",
+        "projectName": "CaptaCase.Core",
+        "projectPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Core\\CaptaCase.Core.csproj",
+        "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\CaptaCase.Domain.csproj": {
+                "projectPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\CaptaCase.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\CaptaCase.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\CaptaCase.Domain.csproj",
+        "projectName": "CaptaCase.Domain",
+        "projectPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\CaptaCase.Domain.csproj",
+        "packagesPath": "C:\\Users\\joaoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joaoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

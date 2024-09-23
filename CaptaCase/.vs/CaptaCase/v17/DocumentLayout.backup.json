@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.application\\services\\customersituationservices\\managecustomersituationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|solutionrelative:captacase.application\\services\\customersituationservices\\managecustomersituationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEEF92-9705-41CD-862E-7E60672C225D}|CaptaCase.API\\CaptaCase.API.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04AEEF92-9705-41CD-862E-7E60672C225D}|CaptaCase.API\\CaptaCase.API.csproj|solutionrelative:captacase.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.application\\services\\customertypeservices\\managecustomertypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|solutionrelative:captacase.application\\services\\customertypeservices\\managecustomertypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.application\\services\\customertypeservices\\searchcustomertypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|solutionrelative:captacase.application\\services\\customertypeservices\\searchcustomertypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.application\\services\\customersituationservices\\searchcustomersituationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|solutionrelative:captacase.application\\services\\customersituationservices\\searchcustomersituationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.application\\services\\customerservices\\searchcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|solutionrelative:captacase.application\\services\\customerservices\\searchcustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.application\\services\\customerservices\\managecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F27B079-A690-4B90-99BC-13AE7F41954E}|CaptaCase.Application\\CaptaCase.Application.csproj|solutionrelative:captacase.application\\services\\customerservices\\managecustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F994A6B8-A694-4FC9-B8C3-C0561C55E095}|CaptaCase.Infrastructure\\CaptaCase.Infrastructure.csproj|c:\\users\\joaoc\\source\\repos\\captacase\\captacase\\captacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F994A6B8-A694-4FC9-B8C3-C0561C55E095}|CaptaCase.Infrastructure\\CaptaCase.Infrastructure.csproj|solutionrelative:captacase.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CaptaCase.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CaptaCase.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:49:26.287Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerServices\\ManageCustomerService.cs",
+              "RelativeDocumentMoniker": "CaptaCase.Application\\Services\\CustomerServices\\ManageCustomerService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerServices\\ManageCustomerService.cs",
+              "RelativeToolTip": "CaptaCase.Application\\Services\\CustomerServices\\ManageCustomerService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:49:17.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchCustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerServices\\SearchCustomerService.cs",
+              "RelativeDocumentMoniker": "CaptaCase.Application\\Services\\CustomerServices\\SearchCustomerService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerServices\\SearchCustomerService.cs",
+              "RelativeToolTip": "CaptaCase.Application\\Services\\CustomerServices\\SearchCustomerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:49:23.35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageCustomerSituationService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerSituationServices\\ManageCustomerSituationService.cs",
+              "RelativeDocumentMoniker": "CaptaCase.Application\\Services\\CustomerSituationServices\\ManageCustomerSituationService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerSituationServices\\ManageCustomerSituationService.cs",
+              "RelativeToolTip": "CaptaCase.Application\\Services\\CustomerSituationServices\\ManageCustomerSituationService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:49:37.659Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CaptaCase.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.API\\appsettings.json",
+              "RelativeToolTip": "CaptaCase.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T12:42:37.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchCustomerSituationService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerSituationServices\\SearchCustomerSituationService.cs",
+              "RelativeDocumentMoniker": "CaptaCase.Application\\Services\\CustomerSituationServices\\SearchCustomerSituationService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerSituationServices\\SearchCustomerSituationService.cs",
+              "RelativeToolTip": "CaptaCase.Application\\Services\\CustomerSituationServices\\SearchCustomerSituationService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:49:44.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchCustomerTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerTypeServices\\SearchCustomerTypeService.cs",
+              "RelativeDocumentMoniker": "CaptaCase.Application\\Services\\CustomerTypeServices\\SearchCustomerTypeService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerTypeServices\\SearchCustomerTypeService.cs",
+              "RelativeToolTip": "CaptaCase.Application\\Services\\CustomerTypeServices\\SearchCustomerTypeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:49:34.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageCustomerTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerTypeServices\\ManageCustomerTypeService.cs",
+              "RelativeDocumentMoniker": "CaptaCase.Application\\Services\\CustomerTypeServices\\ManageCustomerTypeService.cs",
+              "ToolTip": "C:\\Users\\joaoc\\source\\repos\\CaptaCase\\CaptaCase\\CaptaCase.Application\\Services\\CustomerTypeServices\\ManageCustomerTypeService.cs",
+              "RelativeToolTip": "CaptaCase.Application\\Services\\CustomerTypeServices\\ManageCustomerTypeService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAMwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:49:29.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
